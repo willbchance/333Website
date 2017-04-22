@@ -11,7 +11,7 @@ Wager is an application that let's you bet on anything with your friends, from N
 You can view our design document [here](designdoc-2.pdf)
 
 ## Timeline and Objectives 
-- **Week 4.3**
+- **Week 4/3**
 	- Set up Firebase account 
 	- Build out the tables needed for MVP 
 	- Set up the feed view
@@ -35,4 +35,6 @@ You can view our design document [here](designdoc-2.pdf)
 	- Fix functionality bugs (edit another user's profile, delete an active bet etc.) 
 	- Start work on obtaining the necessary credentials to download the app onto users' phones for testing
 	- Add rating functionality after completion of a bet
+- **Week 4/24**
+	- Continue to prepare for alpha testing
 
