@@ -11,7 +11,7 @@ Wager is an application that let's you bet on anything with your friends, from N
 You can view our design document [here](designdoc-2.pdf)
 
 ## Timeline and Objectives 
-- Week 4.3
+- **Week 4.3**
 	- Set up Firebase account 
 	- Build out the tables needed for MVP 
 	- Set up the feed view
@@ -22,14 +22,14 @@ You can view our design document [here](designdoc-2.pdf)
 	- Create unique ID's for users
 	- Icons in tab bar view controller
 	- Mechanism for challenger taking other side of bet
-- Week 4/10
+- **Week 4/10**
 	- Link database to user interface 
 	- Link bets to user profiles
 	- Implement channels - users can select which category of bet they would like to view
 	- Implement bet flow - posed, active and completed and let user view each type
 	- Set up the user rating on a profile
 	- View another user's profile
- - Week 4/17
+ - **Week 4/17**
  	- Add a tableview to profile view controller to allow users to quickly access all the bets they are involved in
 	- Update database to include rating and profile image
 	- Fix functionality bugs (edit another user's profile, delete an active bet etc.) 
