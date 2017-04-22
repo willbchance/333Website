@@ -29,7 +29,7 @@ You can view our design document [here](designdoc-2.pdf)
 	- Implement bet flow - posed, active and completed and let user view each type
 	- Set up the user rating on a profile
 	- View another user's profile
- - **Week 4/17**
+- **Week 4/17**
  	- Update database to include rating and profile image
  	- Add a tableview to profile view controller to allow users to quickly access all the bets they are involved in
 	- Fix functionality bugs (edit another user's profile, delete an active bet etc.) 
