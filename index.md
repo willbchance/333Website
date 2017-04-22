@@ -31,7 +31,7 @@ You can view our design document [here](designdoc-2.pdf)
 	- View another user's profile
 - **Week 4/17**
 	- Update database to include rating and profile image
- 	- Add a tableview to profile view controller to allow users to quickly access all the bets they are involved in
+	- Add a tableview to profile view controller to allow users to quickly access all the bets they are involved in
 	- Fix functionality bugs (edit another user's profile, delete an active bet etc.) 
 	- Start work on obtaining the necessary credentials to download the app onto users' phones for testing
 	- Add rating functionality after completion of a bet
