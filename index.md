@@ -8,7 +8,7 @@ Wager is an application that let's you bet on anything with your friends, from N
  - Will Chance
 
 ## Design Document
-You can view our design document [here](https://github.com/willbchance/333Website/designdoc-2.pdf)
+You can view our design document [here](designdoc-2.pdf)
 
 ## Timeline and Objectives 
 - Week 4.3
