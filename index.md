@@ -25,11 +25,14 @@ You can view our design document [here](https://github.com/willbchance/333Websit
 - Week 4/10
 	- Link database to user interface 
 	- Link bets to user profiles
-	- Implement channels - users can select which category of bet they would like to viewImplement bet flow - posed, active and completed and let user view each type
-	 - Set up the user rating on a profile
-	 - View another user's profile
+	- Implement channels - users can select which category of bet they would like to view
+	- Implement bet flow - posed, active and completed and let user view each type
+	- Set up the user rating on a profile
+	- View another user's profile
  - Week 4/17
  	- Add a tableview to profile view controller to allow users to quickly access all the bets they are involved in
 	- Update database to include rating and profile image
 	- Fix functionality bugs (edit another user's profile, delete an active bet etc.) 
+	- Start work on obtaining the necessary credentials to download the app onto users' phones for testing
+	- Add rating functionality after completion of a bet
 
