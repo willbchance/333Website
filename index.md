@@ -36,5 +36,19 @@ You can view our design document [here](designdoc-2.pdf)
 	- Start work on obtaining the necessary credentials to download the app onto users' phones for testing
 	- Add rating functionality after completion of a bet
 - **Week 4/24**
-	- Continue to prepare for alpha testing
+	- Begin adding in geolocation functionality for bets
+	- Update the login page
+	- Remove pop up alerts for bet categories, status and replace with a filter view controller 
+	- Begin work on updating UI
+- **Week 5/1**
+	- Decrease size of profile images to improve efficiency
+	- Make profile image crop-able to a square
+	- Finish integrating geolocation functionality
+	- Continue UI improvements
+	- Begin work on project demo 
+	- Begin user testing
+- **Week 5/8**
+	- Add more state listeners to enable dynamic update of content in profile 
+	- Continue making small UI improvements
+	- Further testing
 
